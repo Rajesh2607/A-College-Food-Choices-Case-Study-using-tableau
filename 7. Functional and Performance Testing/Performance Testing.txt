@@ -1,0 +1,47 @@
+Title: Performance Testing – College Food Choices Tableau Project
+
+Objective:
+To ensure the Tableau dashboard performs efficiently under various conditions, including different filtering options, larger data loads, and multiple user interactions.
+
+Testing Parameters:
+
+1. Load Time Testing
+   - Action: Open dashboard with full dataset
+   - Expected Result: Dashboard loads within 5–7 seconds
+   - Status: ✅ Passed
+
+2. Filter Performance
+   - Action: Apply filters by food category, nutrient type, and frequency
+   - Expected Result: Charts update dynamically within 2–3 seconds
+   - Status: ✅ Passed
+
+3. Data Refresh Speed
+   - Action: Replace dataset with updated Excel sheet
+   - Expected Result: Tableau updates views correctly without errors
+   - Status: ✅ Passed
+
+4. Responsiveness
+   - Action: Test dashboard on devices with different resolutions (Laptop, Desktop)
+   - Expected Result: Layout adjusts properly; no content overlap
+   - Status: ✅ Passed
+
+5. Scalability Test
+   - Action: Increase data rows by 3x (simulated)
+   - Expected Result: Dashboard remains responsive; minimal lag (<5 seconds)
+   - Status: ✅ Passed
+
+6. Export Test
+   - Action: Export dashboard as PDF
+   - Expected Result: All visual elements retain formatting and structure
+   - Status: ✅ Passed
+
+7. Cross-Browser Compatibility
+   - Action: Run Tableau Public dashboard in Chrome, Firefox, Edge
+   - Expected Result: Same behavior and responsiveness across browsers
+   - Status: ✅ Passed
+
+Conclusion:
+The Tableau dashboard has passed all major performance checks. It performs well under normal and extended data scenarios, maintains speed with filters, and remains user-friendly across devices and browsers.
+
+Recommendation:
+Dashboard is suitable for deployment and public sharing via Tableau Public and GitHub documentation.

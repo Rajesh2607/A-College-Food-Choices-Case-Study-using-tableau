@@ -1,0 +1,16 @@
+Title: Solution Requirements – College Food Choices Case Study
+
+Functional Requirements:
+- Enable dietary trend visualization using Tableau.
+- Identify nutritional deficiencies through data-driven charts.
+- Provide student-specific and category-wise filtering options.
+- Export insights for health recommendations or interventions.
+
+Non-Functional Requirements:
+- Dashboards should be visually intuitive and accessible.
+- Load efficiently even with large data volumes.
+- Data should be anonymized and cleaned for accurate analysis.
+- Scalable to include more datasets or predictive models in the future.
+
+Outcome:
+A Tableau-based solution offering real-time insight into student nutrition, empowering better food decisions and institutional planning.

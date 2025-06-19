@@ -1,0 +1,30 @@
+Title: Solution Architecture – College Food Choices Case Study
+
+1. Data Source:
+→ Raw data collected via surveys or logs from students
+
+2. Data Preparation:
+→ Data cleaning and coding done in Excel
+→ Structured in `clean_food_coded.xlsx`
+
+3. Visualization Layer:
+→ Tableau imports the cleaned dataset
+→ Dashboards built for:
+   - Macronutrient analysis (Protein, Carbs, Fats)
+   - Category-based consumption
+   - Demographic filters
+   - Alert zones for deficiencies
+
+4. End Users:
+→ Students – View personal dietary trends  
+→ College Admin – Monitor large-scale patterns  
+→ Nutrition Experts – Recommend diet plans
+
+5. Output:
+→ Fully interactive Tableau dashboards
+→ Exportable insights for decision-making
+
+Tools Used:
+- Microsoft Excel (Data Cleaning)
+- Tableau (Dashboard Creation)
+- GitHub (Project Documentation)

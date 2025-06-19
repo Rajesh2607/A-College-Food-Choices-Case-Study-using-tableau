@@ -1,0 +1,22 @@
+Title: Data Flow Diagram (DFD) – Level 1
+
+1. Data Collection:
+→ Food Logs / Survey Forms → [Raw Dataset]
+
+2. Data Processing:
+→ Cleaning, Coding, Structuring → [clean_food_coded.xlsx]
+
+3. Data Storage:
+→ Structured Excel file serves as input for Tableau
+
+4. Visualization Layer:
+→ Tableau Dashboards display:
+   - Nutrient breakdown
+   - Category-wise food habits
+   - Risk areas (e.g., lack of protein)
+
+5. End Users:
+→ Students, Nutrition Experts, College Administrators
+
+[Student] ↔ [Dashboards]
+[Admin] ↔ [Insights for Intervention]

@@ -1,0 +1,18 @@
+Title: Brainstorming – College Food Choices Case Study
+
+Objective:
+To ideate and explore potential areas of impact, use cases, and opportunities for data-driven insights using Tableau to improve college students' dietary habits.
+
+Brainstormed Ideas:
+1. Analyze meal preferences and consumption trends over time.
+2. Identify gaps in nutrition such as low intake of fruits, vegetables, or vitamins.
+3. Create dashboards to visualize student health indicators alongside dietary patterns.
+4. Use data to propose changes in cafeteria menus or nutrition programs.
+5. Develop predictive models for identifying students at risk of nutritional deficiencies.
+6. Enable real-time alerts for diet anomalies (e.g., reduced protein or fiber intake).
+7. Segment data by demographic groups (age, gender, program) to provide tailored dietary strategies.
+8. Use clustering to group students by food choices and health profiles.
+9. Conduct correlation analysis between food intake and academic performance.
+
+Outcome:
+Decided to focus the Tableau project on real-time dietary insights, nutrition deficiency detection, and predictive nutrition planning to drive actionable strategies in colleges.

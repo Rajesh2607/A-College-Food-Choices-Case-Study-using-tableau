@@ -1,0 +1,26 @@
+Title: Customer Journey Map – College Food Choices Case Study
+
+Persona: College Student
+
+1. Awareness:
+- Student becomes aware of health concerns due to poor dietary habits.
+- Notices fatigue, low energy, or academic performance dips.
+
+2. Consideration:
+- Student looks for ways to improve nutrition and track eating habits.
+- Engages with college resources, surveys, or food logs.
+
+3. Engagement:
+- Student provides food consumption data via forms or logs.
+- Participates in awareness campaigns or interacts with dashboards.
+
+4. Analysis:
+- Tableau dashboard visualizes nutritional gaps and trends.
+- Student views personalized insights (e.g., low fiber or vitamin intake).
+
+5. Action:
+- Takes steps to adjust eating habits based on dashboard insights.
+- Uses recommendations to build a more balanced diet.
+
+6. Outcome:
+- Improved awareness, healthier food choices, better energy and focus.

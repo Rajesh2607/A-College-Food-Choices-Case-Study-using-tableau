@@ -1,0 +1,27 @@
+Title: Empathy Map – College Students (Primary Stakeholders)
+
+WHO are we empathizing with?
+→ College students concerned about health, wellness, and academic performance.
+
+What do they SAY?
+- “I want to eat healthy but I’m not sure what to choose.”
+- “The food available on campus is often unhealthy.”
+- “I don’t have time to track my diet.”
+
+What do they THINK?
+- “I might be lacking proper nutrition.”
+- “Eating habits may affect my concentration and energy levels.”
+- “Healthy food options seem limited or expensive.”
+
+What do they DO?
+- Frequently consume fast food or cafeteria-prepared meals.
+- Skip meals or snack irregularly.
+- Rarely consult dieticians or nutrition reports.
+
+What do they FEEL?
+- Worried about long-term health and energy.
+- Overwhelmed by choices and busy schedules.
+- Eager for personalized health guidance and easy-to-understand insights.
+
+GOAL:
+To provide these students with visual, interactive, and insightful dashboards that empower them to make informed dietary decisions, improve eating habits, and understand the impact of their food choices on health and academic performance.
