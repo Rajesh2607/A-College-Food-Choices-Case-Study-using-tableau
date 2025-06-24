@@ -17,7 +17,7 @@ To develop an interactive Tableau dashboard that visualizes college students' di
 
 4. Timeline & Milestones:
 
-| Phase                          | Start Date     | End Date       | Deliverables                          |
+| Phase                         | Start Date     | End Date       | Deliverables                          |
 |-------------------------------|----------------|----------------|---------------------------------------|
 | Ideation & Research           | 13-June-2025   | 14-June-2025   | Problem Statement, Empathy Map        |
 | Requirement Analysis          | 15-June-2025   | 16-June-2025   | Data Description, Functional Specs    |
